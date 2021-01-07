@@ -1,4 +1,4 @@
 # Proofs-of-concepts
 # Samples of code
 
-# This is only for showing working examples of techniques using python 3.7.
+# This repository is to show proofs of concepts using Python 3.7 techniques.
